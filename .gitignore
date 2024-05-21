@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+!docker-compose.yml
+!backend/
+!frontend/
+!README.md
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
